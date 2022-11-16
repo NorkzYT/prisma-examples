@@ -13,12 +13,12 @@
   },
   "dependencies": {
     "@grpc/proto-loader": "0.7.3",
-    "@prisma/client": "4.7.0-dev.23",
+    "@prisma/client": "4.7.0-dev.24",
     "chalk": "4.1.2",
     "grpc": "1.24.11"
   },
   "devDependencies": {
-    "prisma": "4.7.0-dev.23"
+    "prisma": "4.7.0-dev.24"
   },
   "prisma": {
     "seed": "node prisma/seed.js"
